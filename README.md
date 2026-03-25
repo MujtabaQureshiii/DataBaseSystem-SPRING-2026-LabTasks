@@ -8,7 +8,6 @@ This repository contains my **Database Systems Lab work** completed during the c
 - **GitHub:** https://github.com/MujtabaQureshiii
 
 ## 📂 Contents
-- Lab manuals (PDFs)
 - Lab task solutions (SQL queries)
 - Screenshots of outputs
 - Practical implementations using **Oracle SQL**
